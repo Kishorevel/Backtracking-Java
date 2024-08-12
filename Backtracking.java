@@ -15,3 +15,4 @@ public class backtracking {
         }
     }
 }
+// O/P: DDRR DRDR DRRD RDDR RDRD RRDD 
